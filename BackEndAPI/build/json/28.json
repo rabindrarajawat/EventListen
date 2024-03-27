@@ -1,0 +1,44 @@
+{
+  "dna": "745539dc75449188beec36d76ce7c6801e12b2278ba300106f73dde2e248c222",
+  "name": "Knowlaytes #28",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/28.gif",
+  "imageName": "28.gif",
+  "edition": 28,
+  "date": 1666870972502,
+  "attributes": [
+    {
+      "trait_type": "Green",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Drill Instructor",
+      "value": "Drill Instructor"
+    },
+    {
+      "trait_type": "Apprentice",
+      "value": "Apprentice"
+    },
+    {
+      "trait_type": "Sensi",
+      "value": "Sensi"
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Narrow Ear",
+      "value": "Narrow Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

@@ -1,0 +1,71 @@
+{
+<<<<<<< HEAD
+  "dna": "30ce535e91427e4080a7b8ffa3a272c4c434c7e7bd2045349cb7d5c9361f6eb2",
+=======
+  "dna": "9bfdf72d1d47975fbb8b03b14e3f6ae35a5f1c0fe4262ac46ddc54971d2608c6",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #5",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/5.gif",
+  "imageName": "5.gif",
+  "edition": 5,
+<<<<<<< HEAD
+  "date": 1666765478720,
+=======
+  "date": 1666334346117,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Confrence",
+      "value": "Confrence"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Drill Instructor",
+      "value": "Drill Instructor"
+=======
+      "trait_type": "Journalist",
+      "value": "Journalist"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Apprentice",
+      "value": "Apprentice"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Hungarian",
+      "value": "Hungarian"
+=======
+      "trait_type": "Guru",
+      "value": "Guru"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Snub",
+      "value": "Snub"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Journalist",
+      "value": "Journalist"
+    },
+    {
+      "trait_type": "Broad Lobe",
+      "value": "Broad Lobe"
+=======
+      "trait_type": "Agent",
+      "value": "Agent"
+    },
+    {
+      "trait_type": "Squar Ear",
+      "value": "Squar Ear"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

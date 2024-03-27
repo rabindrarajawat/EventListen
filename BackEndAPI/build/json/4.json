@@ -1,0 +1,78 @@
+{
+<<<<<<< HEAD
+  "dna": "74cd7a10d54c57c666c0e28f144dcafba99bf49e678efeb02a8fb04c11084a46",
+=======
+  "dna": "d581535b753a1a0c80dc2b26c1d07f5cf5d5bfe734d43aed7b2c48f220c2724c",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #4",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/4.gif",
+  "imageName": "4.gif",
+  "edition": 4,
+<<<<<<< HEAD
+  "date": 1666765329886,
+  "attributes": [
+    {
+      "trait_type": "Hospital",
+      "value": "Hospital"
+=======
+  "date": 1666334321437,
+  "attributes": [
+    {
+      "trait_type": "Blue",
+      "value": "Blue"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Witch",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Lather Jacket",
+      "value": "Lather Jacket"
+=======
+      "trait_type": "Sombrero",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Jonny",
+      "value": "Jonny"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Sensi",
+      "value": "Sensi"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Pointed",
+      "value": "Pointed"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "Agent"
+    },
+    {
+      "trait_type": "Pointer Ear",
+      "value": "Pointer Ear"
+=======
+      "trait_type": "Droopy",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Presidential",
+      "value": "Presidential"
+    },
+    {
+      "trait_type": "Squar Ear",
+      "value": "Squar Ear"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

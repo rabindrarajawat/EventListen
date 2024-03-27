@@ -1,0 +1,44 @@
+{
+  "dna": "2dc8fadef7924d8085d3fd4a0770dbed65bf9f0cf29d1b04b9165ff12fe1a98a",
+  "name": "Knowlaytes #20",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/20.gif",
+  "imageName": "20.gif",
+  "edition": 20,
+  "date": 1666855891958,
+  "attributes": [
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Top Hat",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Apprentice",
+      "value": "Apprentice"
+    },
+    {
+      "trait_type": "Hungarian",
+      "value": "Hungarian"
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "Agent"
+    },
+    {
+      "trait_type": "Squar Ear",
+      "value": "Squar Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

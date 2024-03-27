@@ -1,0 +1,48 @@
+{
+  "dna": "6b85e9a771b3eafdac6477dd196b7ae7e08173520a33ca96dc3764cf4bfc2821",
+  "name": "Knowlaytes #59",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/59.gif",
+  "imageName": "59.gif",
+  "edition": 59,
+<<<<<<< HEAD
+  "date": 1666262629517,
+=======
+  "date": 1666262312147,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Blue",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bowler",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Bibical Beard",
+      "value": "Bibical Beard"
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "80's",
+      "value": "80's"
+    },
+    {
+      "trait_type": "Broad Lobe",
+      "value": "Broad Lobe"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

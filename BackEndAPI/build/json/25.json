@@ -1,0 +1,44 @@
+{
+  "dna": "8834c3db271e1df785830c7306677eb177b751c1190e6268e96fd8b15f4a673d",
+  "name": "Knowlaytes #25",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/25.gif",
+  "imageName": "25.gif",
+  "edition": 25,
+  "date": 1666868851073,
+  "attributes": [
+    {
+      "trait_type": "Hospital",
+      "value": "Hospital"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Reggae",
+      "value": "Reggae"
+    },
+    {
+      "trait_type": "Casual Jacket",
+      "value": "Casual Jacket"
+    },
+    {
+      "trait_type": "Midnight Lincoln",
+      "value": "Midnight Lincoln"
+    },
+    {
+      "trait_type": "Grecian",
+      "value": "Grecian"
+    },
+    {
+      "trait_type": "Presidential",
+      "value": "Presidential"
+    },
+    {
+      "trait_type": "Symetrical Ear",
+      "value": "Symetrical Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

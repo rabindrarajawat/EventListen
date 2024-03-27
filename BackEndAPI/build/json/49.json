@@ -1,0 +1,44 @@
+{
+  "dna": "3ed5a2c25d22b36d8a95afa0edcca19f9767624d9ea239088baa3a86ed0a54ab",
+  "name": "Knowlaytes #49",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/49.gif",
+  "imageName": "49.gif",
+  "edition": 49,
+  "date": 1666248429165,
+  "attributes": [
+    {
+      "trait_type": "Confrence",
+      "value": "Confrence"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Wizard",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Futura",
+      "value": "Futura"
+    },
+    {
+      "trait_type": "Guru",
+      "value": "Guru"
+    },
+    {
+      "trait_type": "Pointed",
+      "value": "Pointed"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "Agent"
+    },
+    {
+      "trait_type": "Pointer Ear",
+      "value": "Pointer Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

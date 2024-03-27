@@ -1,0 +1,77 @@
+{
+<<<<<<< HEAD
+  "dna": "be4bda97fd6a3d69a0b2f57f996811ca05779e198f37e6d4ffef9762d8758623",
+=======
+  "dna": "307a16f4f5edbec230cf3def0d6184a4d1d1a1905448eec15c5ec2ea7ffebcd1",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #8",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/8.gif",
+  "imageName": "8.gif",
+  "edition": 8,
+<<<<<<< HEAD
+  "date": 1666784711062,
+=======
+  "date": 1666342997444,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Hospital",
+      "value": "Hospital"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Woolhat",
+      "value": "Woolhat"
+    },
+    {
+      "trait_type": "Concierge",
+      "value": "Concierge"
+    },
+    {
+      "trait_type": "Full Beard",
+      "value": "Full Beard"
+    },
+    {
+      "trait_type": "Pointed",
+      "value": "Pointed"
+    },
+    {
+      "trait_type": "80's",
+      "value": "80's"
+    },
+    {
+      "trait_type": "Narrow Ear",
+      "value": "Narrow Ear"
+=======
+      "trait_type": "Witch",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Rain Coat",
+      "value": "Rain Coat"
+    },
+    {
+      "trait_type": "Wlrus",
+      "value": "Wlrus"
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Squar Ear",
+      "value": "Squar Ear"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

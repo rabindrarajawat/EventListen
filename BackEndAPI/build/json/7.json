@@ -1,0 +1,73 @@
+{
+<<<<<<< HEAD
+  "dna": "8a606b4c9fcdd35241fb4e4e09dae8b3826b1278424ff6b4c87a4a3ed79f9e4c",
+=======
+  "dna": "a5792dd63c80359a3d9c2990689a229311a7e7b70e954454133743a237a9192a",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #7",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/7.gif",
+  "imageName": "7.gif",
+  "edition": 7,
+<<<<<<< HEAD
+  "date": 1666783999588,
+  "attributes": [
+    {
+      "trait_type": "Blue",
+      "value": "Blue"
+=======
+  "date": 1666342550224,
+  "attributes": [
+    {
+      "trait_type": "Confrence",
+      "value": "Confrence"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Wizard",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Lincoin",
+      "value": "Lincoin"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Wlrus",
+      "value": "Wlrus"
+    },
+    {
+      "trait_type": "Grecian",
+      "value": "Grecian"
+    },
+    {
+      "trait_type": "80's",
+      "value": "80's"
+    },
+    {
+      "trait_type": "Symetrical Ear",
+      "value": "Symetrical Ear"
+=======
+      "trait_type": "Guru",
+      "value": "Guru"
+    },
+    {
+      "trait_type": "Droopy",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "Agent"
+    },
+    {
+      "trait_type": "Attached Lobe",
+      "value": "Attached Lobe"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

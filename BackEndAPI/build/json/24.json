@@ -1,0 +1,44 @@
+{
+  "dna": "3cfcc23a147ab24ab2492ed30ba45f1e9bb5a205b3df3269aae3590641415ee4",
+  "name": "Knowlaytes #24",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/24.gif",
+  "imageName": "24.gif",
+  "edition": 24,
+  "date": 1666867642436,
+  "attributes": [
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Futura",
+      "value": "Futura"
+    },
+    {
+      "trait_type": "Hungarian",
+      "value": "Hungarian"
+    },
+    {
+      "trait_type": "Grecian",
+      "value": "Grecian"
+    },
+    {
+      "trait_type": "Le Professeur",
+      "value": "Le Professeur"
+    },
+    {
+      "trait_type": "Pointer Ear",
+      "value": "Pointer Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

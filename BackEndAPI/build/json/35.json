@@ -1,0 +1,44 @@
+{
+  "dna": "cb98efe29b25ceb27d41664892aaaf7d4af410d230a59c05c6a53a408b5f9d9e",
+  "name": "Knowlaytes #35",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/35.gif",
+  "imageName": "35.gif",
+  "edition": 35,
+  "date": 1666092583685,
+  "attributes": [
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Journalist",
+      "value": "Journalist"
+    },
+    {
+      "trait_type": "Jonny",
+      "value": "Jonny"
+    },
+    {
+      "trait_type": "Horseshoe",
+      "value": "Horseshoe"
+    },
+    {
+      "trait_type": "Grecian",
+      "value": "Grecian"
+    },
+    {
+      "trait_type": "Anarchist",
+      "value": "Anarchist"
+    },
+    {
+      "trait_type": "Narrow Ear",
+      "value": "Narrow Ear"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

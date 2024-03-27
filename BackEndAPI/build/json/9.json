@@ -1,0 +1,70 @@
+{
+<<<<<<< HEAD
+  "dna": "57d23fcde8287866d324e6539ee8de63c6eafddc7d93b6d896e22e19c6baeff0",
+=======
+  "dna": "a316734a4f894b1dfb819f72ccbdb54445bc88f9ea53019ef254a5da5160174b",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #9",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/9.gif",
+  "imageName": "9.gif",
+  "edition": 9,
+<<<<<<< HEAD
+  "date": 1666784922950,
+  "attributes": [
+    {
+      "trait_type": "Hospital",
+      "value": "Hospital"
+=======
+  "date": 1666343519241,
+  "attributes": [
+    {
+      "trait_type": "Green",
+      "value": "Green"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Detective",
+      "value": "Detective"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Casual Jacket2",
+      "value": "Casual Jacket2"
+    },
+    {
+      "trait_type": "Full Beard",
+      "value": "Full Beard"
+=======
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Fu'manchu",
+      "value": "Fu'manchu"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "Pilot",
+      "value": "Pilot"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Pointer Ear",
+      "value": "Pointer Ear"
+=======
+      "trait_type": "Attached Lobe",
+      "value": "Attached Lobe"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

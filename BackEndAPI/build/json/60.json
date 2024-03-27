@@ -1,0 +1,48 @@
+{
+  "dna": "a3149d353498c3f25bfceb1d6fb23f5dad88289eefb80d3276079d549cbc0aaa",
+  "name": "Knowlaytes #60",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/60.gif",
+  "imageName": "60.gif",
+  "edition": 60,
+<<<<<<< HEAD
+  "date": 1666263495133,
+=======
+  "date": 1666263497654,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Construction",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Detective",
+      "value": "Detective"
+    },
+    {
+      "trait_type": "Bathrobe",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Wlrus",
+      "value": "Wlrus"
+    },
+    {
+      "trait_type": "Flat",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Le Professeur",
+      "value": "Le Professeur"
+    },
+    {
+      "trait_type": "Free Lobe",
+      "value": "Free Lobe"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

@@ -1,0 +1,77 @@
+{
+<<<<<<< HEAD
+  "dna": "b06d3ebb2bc2f2a536d37495b45020d6a50b3e9d61f6902354ef1261bbd7830c",
+=======
+  "dna": "eda82a062780616bf7d5503d5fde370c2d00c59cc5b3281ace809ee4283c563b",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #11",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/11.gif",
+  "imageName": "11.gif",
+  "edition": 11,
+<<<<<<< HEAD
+  "date": 1666264956613,
+=======
+  "date": 1666348941368,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Blue",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Bowler",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Guru",
+      "value": "Guru"
+    },
+    {
+      "trait_type": "Bulbous",
+      "value": "Bulbous"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Attached Lobe",
+      "value": "Attached Lobe"
+=======
+      "trait_type": "Sombrero",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Concierge",
+      "value": "Concierge"
+    },
+    {
+      "trait_type": "Hungarian",
+      "value": "Hungarian"
+    },
+    {
+      "trait_type": "Pointed",
+      "value": "Pointed"
+    },
+    {
+      "trait_type": "Journalist",
+      "value": "Journalist"
+    },
+    {
+      "trait_type": "Broad Lobe",
+      "value": "Broad Lobe"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

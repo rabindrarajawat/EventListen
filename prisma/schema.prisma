@@ -1,0 +1,88 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model userdetails {
+  loginid      Int     @id @default(autoincrement())
+  email        String  @unique
+  userpassword String
+  firstname    String
+  lastname     String
+  gender       String?
+  usernumber   Int?
+}
+
+model collectiondetails {
+  cid              Int      @id @default(autoincrement())
+  collectionname   String
+  collectionsymbol String
+  isactive         Boolean  @default(true)
+  createddate      DateTime @default(now())
+  description      String
+  properties       String[]
+  royalty          Decimal
+  thumbnailname    String
+  collectionpath   String?
+  contractaddress  String?  @default("Address")
+  baseuripath      String?
+  contracturi      String?
+  defaultbaseuri   String?
+  price            Decimal?
+  totalnft         Int?
+}
+
+model nftdetails {
+  nid         Int      @id @default(autoincrement())
+  cid         Int
+  nftname     String
+  description String
+  imagefile   String
+  properties  String[]
+  tokenid     Int?
+}
+
+model selectedmetadata {
+  id            Int      @id @default(autoincrement())
+  tokenId       Int
+  selectionTime DateTime @default(now()) @db.Timestamptz(3)
+  monthAndYear  DateTime @default(now()) @db.Date()
+  hash          String
+  encryptedTraitValue String
+}
+
+model currentmetadata {
+  id              Int    @id @default(autoincrement())
+  tokenId         Int    @unique
+  backgroundValue String
+  hatValue        String
+  jacketValue     String
+  hairValue       String
+  glassValue      String
+  noseValue       String
+  earValue        String
+}
+
+model ownertokenid {
+  id      Int    @id @default(autoincrement())
+  tokenId Int    @unique
+  owner   String
+}
+
+model freezetraits {
+  id           Int      @id @default(autoincrement())
+  knowId       Int @unique
+  hatFreeze    String[]
+  jacketFreeze String[]
+  hairFreeze   String[]
+  noseFreeze   String[]
+  glassFreeze  String[]
+  earFreeze    String[]
+}

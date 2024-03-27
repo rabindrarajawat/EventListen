@@ -1,0 +1,81 @@
+{
+<<<<<<< HEAD
+  "dna": "fa42401c4d882f6159e1a7870611a0461d7b20ce502801d9a372dd35c1a30748",
+=======
+  "dna": "ab51d8f7ca150a668ad9c33fb18b302f130d25b4daa018df2df3cb38bffd4e76",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #19",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/19.gif",
+  "imageName": "19.gif",
+  "edition": 19,
+<<<<<<< HEAD
+  "date": 1666855220708,
+  "attributes": [
+    {
+      "trait_type": "Construction",
+      "value": "Construction"
+=======
+  "date": 1666330474702,
+  "attributes": [
+    {
+      "trait_type": "Blue",
+      "value": "Blue"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Troops Mask2",
+      "value": "Troops Mask2"
+    },
+    {
+      "trait_type": "Lather Jacket",
+      "value": "Lather Jacket"
+    },
+    {
+      "trait_type": "Wlrus",
+      "value": "Wlrus"
+    },
+    {
+      "trait_type": "Snub",
+      "value": "Snub"
+    },
+    {
+      "trait_type": "Pilot",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Symetrical Ear",
+      "value": "Symetrical Ear"
+=======
+      "trait_type": "Bowler",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Full Beard",
+      "value": "Full Beard"
+    },
+    {
+      "trait_type": "Droopy",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Journalist",
+      "value": "Journalist"
+    },
+    {
+      "trait_type": "Sticking Out",
+      "value": "Sticking Out"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

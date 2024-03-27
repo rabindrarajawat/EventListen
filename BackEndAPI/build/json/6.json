@@ -1,0 +1,81 @@
+{
+<<<<<<< HEAD
+  "dna": "fe40e98704516e1a9f2ae052676b116a387a02b97d4916b00b6d643e7f5f969c",
+=======
+  "dna": "561c43f83d7989a9b948a1dcab08e3cefafb6aae6affcdf9a0a597ff7ae1d1e6",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #6",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/6.gif",
+  "imageName": "6.gif",
+  "edition": 6,
+<<<<<<< HEAD
+  "date": 1666783661863,
+  "attributes": [
+    {
+      "trait_type": "Green",
+      "value": "Green"
+=======
+  "date": 1666335685619,
+  "attributes": [
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Wizard",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Horseshoe",
+      "value": "Horseshoe"
+    },
+    {
+      "trait_type": "Bulbous",
+      "value": "Bulbous"
+    },
+    {
+      "trait_type": "Anarchist",
+      "value": "Anarchist"
+    },
+    {
+      "trait_type": "Broad Lobe",
+      "value": "Broad Lobe"
+=======
+      "trait_type": "Witch",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Fu'manchu",
+      "value": "Fu'manchu"
+    },
+    {
+      "trait_type": "Pointed",
+      "value": "Pointed"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Free Lobe",
+      "value": "Free Lobe"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

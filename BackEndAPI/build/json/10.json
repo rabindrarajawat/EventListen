@@ -1,0 +1,74 @@
+{
+<<<<<<< HEAD
+  "dna": "8fb1f18e4e89c6fe2b892cdaa73f0c25be560043b85bba156384c97f564adef1",
+=======
+  "dna": "8f2c851d685a04d337b74851761e3e84fd8849dc4182716b4f1ff373f339b585",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #10",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/10.gif",
+  "imageName": "10.gif",
+  "edition": 10,
+<<<<<<< HEAD
+  "date": 1666785005289,
+=======
+  "date": 1666344417782,
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "attributes": [
+    {
+      "trait_type": "Restaurant",
+      "value": "Restaurant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Top Hat",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Futura",
+      "value": "Futura"
+    },
+    {
+      "trait_type": "Politician",
+      "value": "Politician"
+    },
+    {
+      "trait_type": "Grecian",
+      "value": "Grecian"
+=======
+      "trait_type": "Journalist",
+      "value": "Journalist"
+    },
+    {
+      "trait_type": "Coat",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Full Beard",
+      "value": "Full Beard"
+    },
+    {
+      "trait_type": "Snub",
+      "value": "Snub"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "80's",
+      "value": "80's"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Broad Lobe",
+      "value": "Broad Lobe"
+=======
+      "trait_type": "Narrow Ear",
+      "value": "Narrow Ear"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

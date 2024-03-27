@@ -1,0 +1,22 @@
+  {
+    "totalSupply": 1,
+    "height": 420,
+    "width": 420,
+    "framesPerSecond": 20,
+    "numberOfFrames": 50,
+    "saveIndividualFrames": false,
+    "description": "Knowladge is Power",
+    "baseUri": "ipfs://NewUriToReplace",
+    "startIndex": 0,
+    "quality": 100,
+    "layersFolder": "layers",
+    "gifTool": "imageio",
+    "mp4Tool": "ffmpeg",
+    "outputType": "gif",
+    "loopGif": true,
+    "debug": false,
+    "useBatches": false,
+    "numFramesPerBatch": 2,
+    "useMultiprocessing": false,
+    "processorCount": 1
+  }

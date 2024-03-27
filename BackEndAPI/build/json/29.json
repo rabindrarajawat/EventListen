@@ -1,0 +1,44 @@
+{
+  "dna": "2d358ece6a9082955fd502f48baab77e5794b73b549354432f91a7dbd37e4514",
+  "name": "Knowlaytes #29",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/29.gif",
+  "imageName": "29.gif",
+  "edition": 29,
+  "date": 1666871024756,
+  "attributes": [
+    {
+      "trait_type": "Construction",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Troops Mask",
+      "value": "Troops Mask"
+    },
+    {
+      "trait_type": "Winter Jacket",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Guru",
+      "value": "Guru"
+    },
+    {
+      "trait_type": "Roman",
+      "value": "Nose7"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Sticking Out",
+      "value": "Sticking Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

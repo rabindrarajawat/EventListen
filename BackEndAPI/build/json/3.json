@@ -1,0 +1,81 @@
+{
+<<<<<<< HEAD
+  "dna": "e2e2977dcd176b544b9bbaea1185cf777c0bb52d4ca65a5be6cb3b62e4817bc6",
+=======
+  "dna": "c86f075ac424a0ed4f6c8d264361f6d48ce10e6df880dc2d5eb2b527e0a38970",
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+  "name": "Knowlaytes #3",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/3.gif",
+  "imageName": "3.gif",
+  "edition": 3,
+<<<<<<< HEAD
+  "date": 1666781152751,
+  "attributes": [
+    {
+      "trait_type": "Construction",
+      "value": "Construction"
+=======
+  "date": 1666334165914,
+  "attributes": [
+    {
+      "trait_type": "Green",
+      "value": "Green"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+<<<<<<< HEAD
+      "trait_type": "Drill Instructor",
+      "value": "Drill Instructor"
+    },
+    {
+      "trait_type": "Lincoin",
+      "value": "Lincoin"
+    },
+    {
+      "trait_type": "Wlrus",
+      "value": "Wlrus"
+    },
+    {
+      "trait_type": "Droopy",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Presidential",
+      "value": "Presidential"
+    },
+    {
+      "trait_type": "Pointer Ear",
+      "value": "Pointer Ear"
+=======
+      "trait_type": "Wizard",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Lab Jacket",
+      "value": "Lab Jacket"
+    },
+    {
+      "trait_type": "Politician",
+      "value": "Politician"
+    },
+    {
+      "trait_type": "Snub",
+      "value": "Snub"
+    },
+    {
+      "trait_type": "Con Man",
+      "value": "Con Man"
+    },
+    {
+      "trait_type": "Sticking Out",
+      "value": "Sticking Out"
+>>>>>>> b813b7cdead078ced51c977019b631dfada2b898
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}

@@ -1,0 +1,44 @@
+{
+  "dna": "c421ee8975170f3470634b31f8530dc2089f65275b24061b703a760c4f5e9c10",
+  "name": "Knowlaytes #144",
+  "description": "Knowladge is Power",
+  "image": "ipfs://NewUriToReplace/144.gif",
+  "imageName": "144.gif",
+  "edition": 144,
+  "date": 1658484650598,
+  "attributes": [
+    {
+      "trait_type": "Bg7",
+      "value": "Restaurant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Hat3",
+      "value": "Hat3"
+    },
+    {
+      "trait_type": "Hair5",
+      "value": "Hair5"
+    },
+    {
+      "trait_type": "Glasses1",
+      "value": "Glasse1"
+    },
+    {
+      "trait_type": "Ear5",
+      "value": "Ear5"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Jacket1"
+    }
+  ],
+  "compiler": "HashLips Art Engine - Jalagar gif fork"
+}
